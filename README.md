@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a full-stack JavaScript engineer focusing on building out the breadth of my capabilities across the stack.
+I'm a full-stack JavaScript engineer focusing on building out the breadth of my capabilities across the stack. GitHub is my medium for learning in public.
 <!--
 **cjo2/cjo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
