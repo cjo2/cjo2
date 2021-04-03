@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a full-stack JavaScript engineer focusing on building out the breadth of my capabilities across the stack. 
+I'm a full-stack JavaScript engineer focusing on building out the breadth of my capabilities across the stack. I'm an ex-technology consultant with experience in roles bouncing between engineering and product teams - building a knack for understanding how to build scalable, satisfying user experiences.
 
 GitHub is my medium for learning in public.
 
