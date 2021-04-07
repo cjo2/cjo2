@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a full-stack JavaScript engineer focusing on building out the breadth of my capabilities across the stack. I'm an ex-technology consultant with experience in roles bouncing between engineering and product teams - growing an ability for understanding how to build scalable, satisfying user experiences.
 
-GitHub is my medium for learning in public.
+GitHub is my chosen medium for learning in public. If and when I work on something that may be useful to other developers, I'll be sure to share it here. :)
 
 <!--
 **cjo2/cjo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
